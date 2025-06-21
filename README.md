@@ -9,7 +9,7 @@ Minesweeper
 
 2) If using other java versions example 1.8 please change pom.xml <Java.version></Java.version> below to the specific java version
 
-![image](https://github.com/user-attachments/assets/e29f7a8e-30b8-4e01-9285-6291b9a5cba2)
+![image](https://github.com/user-attachments/assets/778fc853-9b3f-450e-9f91-fe34a57e8b19)
 
 3) important to download lombok plugin from marketplace. Steps below in screenshot provided
 4) enable Lombok annotation processing in intellij
