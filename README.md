@@ -11,13 +11,13 @@ Minesweeper
 
 ![image](https://github.com/user-attachments/assets/e29f7a8e-30b8-4e01-9285-6291b9a5cba2)
 
-3) download lombok plugin from marketplace. Steps below in screenshot provided
+3) important to download lombok plugin from marketplace. Steps below in screenshot provided
 4) enable Lombok annotation processing in intellij
 
  ![image](https://github.com/user-attachments/assets/5396489e-8301-4847-a29a-9b5bf374db87)
 
 
-5) run "mvn clean install" in terminal
+5) After downloading lombok plugin and setup , run "mvn clean install" in terminal
    
 ![image](https://github.com/user-attachments/assets/b7beb25a-90f7-4737-9f30-13af59e8a966)
 
