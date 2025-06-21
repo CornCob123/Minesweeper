@@ -7,7 +7,7 @@ Minesweeper
 ![image](https://github.com/user-attachments/assets/a9879871-cf01-44da-8971-308bc98467b8)
 
 
-2) If using java 17 please skip this step. If using other java versions example 1.8 please change pom.xml below to the specific java version
+2) If using other java versions example 1.8 please change pom.xml <Java.version></Java.version> below to the specific java version
 
 ![image](https://github.com/user-attachments/assets/e29f7a8e-30b8-4e01-9285-6291b9a5cba2)
 
