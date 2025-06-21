@@ -1,7 +1,7 @@
 # Minesweeper
 Minesweeper
 
-1) Change project structure in these locations to the java version. if using other java version (I am using java 17) please do the following step 2 as well
+1)if using other java versions (I am using java 17) please do step 2 as well
 
 ![image](https://github.com/user-attachments/assets/251e511e-a453-4a67-bd3e-708f25c03954)
 ![image](https://github.com/user-attachments/assets/a9879871-cf01-44da-8971-308bc98467b8)
