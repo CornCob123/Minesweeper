@@ -12,6 +12,9 @@ Minesweeper
 ![image](https://github.com/user-attachments/assets/e29f7a8e-30b8-4e01-9285-6291b9a5cba2)
 
 3) important to download lombok plugin from marketplace. Steps below in screenshot provided
+
+  ![image](https://github.com/user-attachments/assets/2124e1af-28b6-4455-b558-d81667f29a4d)
+
 4) enable Lombok annotation processing in intellij
 
  ![image](https://github.com/user-attachments/assets/5396489e-8301-4847-a29a-9b5bf374db87)
