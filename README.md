@@ -31,3 +31,4 @@ Minesweeper
 
    ![image](https://github.com/user-attachments/assets/bafaa1ce-5ef2-45fc-8d37-29ebe15fe853)
 
+   ![image](https://github.com/user-attachments/assets/ccaefde2-4499-4d74-a4b0-18e0fbcb264c)
