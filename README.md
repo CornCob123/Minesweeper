@@ -1,13 +1,13 @@
 # Minesweeper
 Minesweeper
 
-Java 17
+Recommended to use Java 17 , if using other version please do the following step as well
 
 ![image](https://github.com/user-attachments/assets/251e511e-a453-4a67-bd3e-708f25c03954)
 ![image](https://github.com/user-attachments/assets/a9879871-cf01-44da-8971-308bc98467b8)
 
 
-If using other version of java example change pom.xml below to the specific java version
+If using other version of java example 1.8 change pom.xml below to the specific java version
 
 ![image](https://github.com/user-attachments/assets/e29f7a8e-30b8-4e01-9285-6291b9a5cba2)
 
