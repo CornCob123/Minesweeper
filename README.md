@@ -28,3 +28,6 @@ Minesweeper
 6) Right click run as file MineGameTest to run the Junit test cases
 
 7) Right click run as file MineSweeper to run program
+
+   ![image](https://github.com/user-attachments/assets/bafaa1ce-5ef2-45fc-8d37-29ebe15fe853)
+
