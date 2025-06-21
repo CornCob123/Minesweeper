@@ -22,5 +22,7 @@ Steps:
 3) enable Lombok annotation processing in intellij
 
 ![image](https://github.com/user-attachments/assets/5396489e-8301-4847-a29a-9b5bf374db87)
+
 4) Right click run as file MineGameTest to run the Junit test cases
+
 5) Right click run as file MineSweeper to run program
